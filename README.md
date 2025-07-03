@@ -29,6 +29,7 @@ This Python-based app allows admins and students to manage academic data, profil
 ---
 
 ## 🗂 Project Structure
+```
 ├── main.py # Main entry point for the app
 ├── user_classes.py # Contains User, Admin, and Student class definitions
 ├── utils.py # Helper functions like login verification, user info fetch
@@ -43,4 +44,4 @@ This Python-based app allows admins and students to manage academic data, profil
 │ ├── slides.pptx # Presentation slides
 │ └── screenshots/ # Folder containing demo screenshots
 ├── README.md # This file (project overview and instructions)
-
+```
