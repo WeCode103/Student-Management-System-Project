@@ -29,4 +29,18 @@ This Python-based app allows admins and students to manage academic data, profil
 ---
 
 ## 🗂 Project Structure
+├── main.py # Main entry point for the app
+├── user_classes.py # Contains User, Admin, and Student class definitions
+├── utils.py # Helper functions like login verification, user info fetch
+├── gui.py # (Optional) GUI features (if implemented)
+├── data/ # Folder holding all the data files
+│ ├── users.txt # Stores registered users (ID, name, role)
+│ ├── passwords.txt # Stores usernames and passwords
+│ ├── grades.txt # Stores subject-wise grades for each student
+│ └── eca.txt # Stores extracurricular activity info per student
+├── report/ # Final submission materials
+│ ├── report.docx # Written report document
+│ ├── slides.pptx # Presentation slides
+│ └── screenshots/ # Folder containing demo screenshots
+├── README.md # This file (project overview and instructions)
 
