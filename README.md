@@ -31,8 +31,12 @@ This Python-based app allows admins and students to manage academic data, profil
 ## 🗂 Project Structure
 ```
 ├── main.py # Main entry point for the app
-├── user_classes.py # Contains User, Admin, and Student class definitions
 ├── utils.py # Helper functions like login verification, user info fetch
+├── user_models.py # Contains User, Admin, and Student class definitions
+├── eca_manager.py #Admin handles CRUD operation of ECA
+├── grade_manager.py #Admin handles CRUD operation of ECA
+├── login_system.py #It shows login for admin and studet to get into the respective user dashboard
+├──user_menu.py#Handles Admin and Student Menus 
 ├── gui.py # (Optional) GUI features (if implemented)
 ├── data/ # Folder holding all the data files
 │ ├── users.txt # Stores registered users (ID, name, role)
