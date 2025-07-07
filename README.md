@@ -12,15 +12,15 @@ This Python-based app allows admins and students to manage academic data, profil
 
 ---
 
-## 📚 Features
+##  Features
 
-### 🧑‍🎓 Student Role
+###  Student Role
 - Login securely
 - View personal profile
 - View grades (from `grades.txt`)
 - View ECA details (from `eca.txt`)
 
-### 🛠️ Admin Role
+###  Admin Role
 - Add new users with roles (admin/student)
 - Delete users from all records
 - View average subject-wise grades
@@ -28,6 +28,11 @@ This Python-based app allows admins and students to manage academic data, profil
 
 ---
 
+### GUI
+ -Implemented Graphical User Interface in project 
+ -Used Tkinter Library for GUI
+ -GUI was used for use efficient Navigation of the App.
+ 
 ## 🗂 Project Structure
 ```
 ├── main.py # Main entry point for the app
