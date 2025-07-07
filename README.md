@@ -6,9 +6,9 @@ This Python-based app allows admins and students to manage academic data, profil
 ---
 
 ## 👥 Team Members
-- Bikranta (Team lead, main.py + GitHub repo manager)
-- Aaryal (Student feature dev, data handling)
-- Shuban(Admin analytics + GUI design)
+- Bikranta (Team lead, main.py + GitHub repo manager +GUI)
+- Aaryal (Student feature dev, data handling+GUI)
+- Shuban(Admin analytics + GUI design + GUI)
 
 ---
 
